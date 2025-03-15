@@ -1,8 +1,8 @@
-🚀 Benvenuto in Percorso G-DEV!
+# 🚀 Benvenuto in Percorso G-DEV!
 
 Benvenuto in Percorso G-DEV, il programma di formazione che ti guiderà passo dopo passo per diventare uno sviluppatore frontend esperto! 🎯
 
-🎓 Cosa troverai qui?
+## 🎓 Cosa troverai qui?
 
 Percorso G-DEV è un programma strutturato in blocchi di 14 giorni, pensato per permetterti di imparare HTML, CSS, JavaScript e React in modo progressivo e pratico. Ogni blocco contiene:
 
@@ -14,7 +14,7 @@ Percorso G-DEV è un programma strutturato in blocchi di 14 giorni, pensato per 
 
 🔄 Feedback personalizzato per migliorare costantemente.
 
-🔥 Come funziona il percorso?
+## 🔥 Come funziona il percorso?
 
 Ogni 14 giorni sbloccherai un nuovo blocco con nuovi concetti e progetti.
 
@@ -24,13 +24,13 @@ Se finisci un blocco prima del tempo, potrai ricevere materiale extra per approf
 
 Alla fine del percorso, avrai costruito un portfolio solido e pronto per il mondo del lavoro!
 
-📌 Come iniziare?
+## 📌 Come iniziare?
 
 ✅ Controlla il tuo repository privato per il primo blocco.
 ✅ Guarda la video-lezione e leggi il materiale allegato.
 ✅ Completa gli esercizi e invia il codice per la revisione.
 ✅ Partecipa alla community e chiedi supporto se necessario!
 
-⚡ Pronto a diventare uno sviluppatore frontend di alto livello?
+⚡ **Pronto a diventare uno sviluppatore frontend di alto livello?**
 Buon coding e benvenuto in Percorso G-DEV! 🚀
 
